@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 2251-CF49
+
+ R‚pertoire de C:\Users\user\Desktop\test2023
+
+26/06/2021  12:10    <REP>          .
+26/06/2021  12:10    <REP>          ..
+26/06/2021  10:47               377 test2.txt
+26/06/2021  12:10                 0 test3.txt
+               2 fichier(s)              377 octets
+               2 R‚p(s)  171ÿ867ÿ475ÿ968 octets libres
