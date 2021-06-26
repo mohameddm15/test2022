@@ -8,4 +8,4 @@
 26/06/2021  10:47               377 test2.txt
 26/06/2021  12:10                 0 test3.txt
                2 fichier(s)              377 octets
-               2 R‚p(s)  171ÿ867ÿ475ÿ968 octets libres
+               2 R‚p(s)  171ÿ867ÿ475ÿ968 octets libres.
